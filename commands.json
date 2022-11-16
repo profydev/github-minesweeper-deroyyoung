@@ -1,7 +1,3 @@
 {
-  "commands": [
-      "clear H5",
-      "clear h4",
-      "clear H6"
-  ]
+  "commands": []
 }
